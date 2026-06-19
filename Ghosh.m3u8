@@ -1,0 +1,62 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-name="BTV" group-title="General",BTV
+http://c1live.net:8080/BTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="SOMOY-TV-HD" group-title="News",SOMOY TV HD
+http://c1live.net:8080/SOMOY-TV-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="JAMUNA-TV-HD" group-title="News",JAMUNA TV HD
+http://c1live.net:8080/JAMUNA-TV-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="EKATTOR-TV-HD" group-title="News",EKATTOR TV HD
+http://c1live.net:8080/EKATTOR-TV-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL-24-HD" group-title="News",CHANNEL 24 HD
+http://c1live.net:8080/CHANNEL-24-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ATN-NEWS" group-title="News",ATN NEWS
+http://c1live.net:8080/ATN-NEWS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ATN-BANGLA" group-title="General",ATN BANGLA
+http://c1live.net:8080/ATN-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="GLOBAL-TV-HD" group-title="General",GLOBAL TV HD
+http://c1live.net:8080/GLOBAL-TV-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="T-SPORTS-HD" group-title="Sports",T-SPORTS HD
+http://c1live.net:8080/T-SPORTS-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="STAR-SPORTS-SELECT-2-HD" group-title="Sports",STAR SPORTS SELECT 2 HD
+http://c1live.net:8080/STAR-SPORTS-SELECT-2-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="PTV-SPORTS" group-title="Sports",PTV SPORTS
+http://c1live.net:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="FIFA" group-title="Sports",FIFA
+http://c1live.net:8080/FIFA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="FIFA-PLUS-V1" group-title="Sports",FIFA PLUS (Track V1A1)
+http://c1live.net:8080/FIFA-PLUS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="FIFA-PLUS-A1" group-title="Sports",FIFA PLUS (Track A1)
+http://c1live.net:8080/FIFA-PLUS/tracks-a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="FOX-43" group-title="Sports",FOX 43
+http://c1live.net:8080/FOX-43/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ZEE-BANGLA-HD" group-title="Entertainment",ZEE BANGLA HD
+http://c1live.net:8080/ZEE-BANGLA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="STAR-PLUS-HD" group-title="Entertainment",STAR PLUS HD
+http://c1live.net:8080/STAR-PLUS-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="STAR-GOLD-HD" group-title="Movies",STAR GOLD HD
+http://c1live.net:8080/STAR-GOLD-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="DD-BANGLA" group-title="General",DD BANGLA
+http://c1live.net:8080/DD-BANGLA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="NATGEO-WILD" group-title="Documentary",NATGEO WILD
+http://c1live.net:8080/NATGEO-WILD/tracks-v1a1/mono.m3u8
