@@ -1,4 +1,4 @@
-#EXTM3U <!-- Updated: 2026-06-26 18:18:04 -->
+#EXTM3U <!-- Updated: 2026-06-27 00:43:21 -->
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/26-1.png" group-title="Sports",FIFA 1
 http://165.99.39.250:8080/memfs/e238e05b-bb37-40c2-9724-160be3f32f50.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/26-2.png" group-title="Sports",FIFA 100
@@ -19,10 +19,10 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/113/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sonymaxhd.png" group-title="Hindi Movies",SONY MAX HD
 https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/21/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/gtv.png" group-title="Bangladeshi",GAZI TV
-https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/56/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="Bangladeshi",INDEPENDENT TV
 https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/77/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/gtv.png" group-title="Bangladeshi",GAZI TV
+https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/56/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/FOX43.png" group-title="Sports",FOX 43
 https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/12960/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jalshamovies.png" group-title="Kolkata",JALSHA MOVIES HD
