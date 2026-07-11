@@ -1,16 +1,48 @@
-#EXTM3U <!-- Updated: 2026-07-11 21:17:55 -->
-#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/4eb3d1400fb0b9a7499020b99ec0a365410c4fd86a4cee09aff63.png" group-title="Sports",✅ FIFA 4
-http://172.31.21.25:8080/LIVE-EVENT-3/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/42a84507a18441fc7f07a2d7bc330effd293596e6a4cee03e942b.png" group-title="Sports",✅ FIFA 100
-http://172.31.22.20:8080/LIVE-EVENT-2/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/38d474bd0ee468d048f2e6c304006a2425bdc55c6a4cf2c5acd1f.png" group-title="Sports",✅ FOX43
-http://172.31.3.100:8080/FOX-43/index.m3u8
+#EXTM3U <!-- Updated: 2026-07-11 22:22:38 -->
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/zeebanglahd.png" group-title="Kolkata",✅ ZEE BANGLA HD
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/5966/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/colorsbanglahd.png" group-title="Kolkata",✅ COLORS BANGLA HD
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/5981/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/DD bangla.png" group-title="Kolkata",✅ DD BANGLA
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/5996/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Nick JR.png" group-title="Hindi Entertainment",✅ NICK JR
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/15780/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/NATIONAL GEOGRAPHIC HD Logo.png" group-title="Hindi Entertainment",✅ NATIONAL GEOGRAPHIC HD
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/15756/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sonymaxhd.png" group-title="Hindi Movies",✅ SONY MAX HD
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/9438/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/discovery.png" group-title="English",✅ DISCOVERY HD
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/11190/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/HARRY POTTER.png" group-title="English",✅ HARRY POTTER
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/32460/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/CARTOON NETWORK.png" group-title="English",✅ CARTOON NETWORK
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/14958/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/860ac1a366b66420a58f73e6a5847e01f35607736a4cf2e3effac.png" group-title="Sports",✅ FIFA 1
 http://165.99.39.250:8080/memfs/e238e05b-bb37-40c2-9724-160be3f32f50.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/4eb3d1400fb0b9a7499020b99ec0a365410c4fd86a4cee09aff63.png" group-title="Sports",✅ FIFA 4
+http://172.31.21.25:8080/LIVE-EVENT-3/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/38d474bd0ee468d048f2e6c304006a2425bdc55c6a4cf2c5acd1f.png" group-title="Sports",✅ FOX43
+http://172.31.3.100:8080/FOX-43/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/42a84507a18441fc7f07a2d7bc330effd293596e6a4cee03e942b.png" group-title="Sports",✅ FIFA 100
+http://172.31.22.20:8080/LIVE-EVENT-2/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/26.png" group-title="Sports",✅ FIFA
 http://192.168.1.168/0.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/FIFA.jpeg" group-title="Sports",✅ FIFA-PLUS
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Telemundo Boston 2.png" group-title="Sports",✅ TELEMUNDO BOSTON
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/78630/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports3.png" group-title="Sports",✅ STAR SPORTS 3
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/16230/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/SPORTSNET 360 HD Logo.png" group-title="Sports",✅ SPORTSNET 360 HD
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/14988/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/TSN 4 HD Logo.png" group-title="Sports",✅ TSN 4 HD
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/14982/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/logo TNT.png" group-title="Sports",✅ TNT SPORTS
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/13842/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Bbay Bus.png" group-title="Kids",✅ BABY-BUS
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/31296/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BEN 10.png" group-title="Kids",✅ BEN 10
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/41726/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/23110942d8dbc7d1233584977903c90e6b8cb28a6a4cee0df3fe4.jpg" group-title="Sports",❌ SomoyTv
 http://tv.c1live.net:8083/SomoyTv/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/1ed4ea4079eac85755877da653a90cf927ffbaca6a4cedff44139.png" group-title="Sports",❌ Unite8 Sports 2
@@ -23,40 +55,22 @@ https://fcdn.cloudone.fiber.cloudiverse.fun/Jenz/nstrm/11952/index.m3u8
 https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/79/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="Bangladeshi",❌ INDEPENDENT TV
 https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/77/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sonymaxhd.png" group-title="Hindi Movies",❌ SONY MAX HD
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/9438/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports3.png" group-title="Sports",❌ STAR SPORTS 3
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/16230/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/zeebanglahd.png" group-title="Kolkata",❌ ZEE BANGLA HD
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/5966/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Telemundo Boston 2.png" group-title="Sports",❌ TELEMUNDO BOSTON
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/78630/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/nick.png" group-title="Kids",❌ NICK BANGLA
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/78507/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/colorsbanglahd.png" group-title="Kolkata",❌ COLORS BANGLA HD
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/5981/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/New Project (2).png" group-title="Hindi Entertainment",❌ ZEE TV HINDI
 https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/7/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/NATGEO WILD Logo.png" group-title="Hindi Entertainment",❌ NATGEO WILD
 https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/23/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/discovery.png" group-title="English",❌ DISCOVERY HD
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/11190/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/DD bangla.png" group-title="Kolkata",❌ DD BANGLA
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/5996/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BBC NEWS Logo.png" group-title="English",❌ BBC NEWS
-https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/55/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Earth.png" group-title="English",❌ BBC EARTH
 https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/102/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ASportsLogo.png" group-title="Sports",❌ A SPORTS HD
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/12084/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/SPORTSNET 360 HD Logo.png" group-title="Sports",❌ SPORTSNET 360 HD
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/14988/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BBC NEWS Logo.png" group-title="English",❌ BBC NEWS
+https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/55/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Hello.png" group-title="Hindi Movies",❌ B4U
 https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/9570/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sky sports 1 live.png" group-title="Sports",❌ SKY-SPORTS-1
+https://cdn-cloudone.tvstream.top/cloud1tv/media.m3u8?id=5770
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/mohonatv.png" group-title="Bangladeshi",❌ MOHONA TV
 https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/6071/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/animalplanet.png" group-title="English",❌ ANIMAL PLANET HD
-https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/26/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/PREMIER SPORTS 2 Logo.png" group-title="Sports",❌ PREMIER SPORTS 2
+https://cdn-cloudone.tvstream.top/cloud1tv/media.m3u8?id=445
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sky sports premer leauge.png" group-title="Sports",❌ SKY-SPORTS-PREMIER-LEAUGE
 https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/31662/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/CNN Logo.png" group-title="English",❌ CNN
@@ -65,43 +79,29 @@ https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/4/index.m3u8
 https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/6053/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/mytv.png" group-title="Bangladeshi",❌ MY TV HD
 https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/6110/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Nick JR.png" group-title="Hindi Entertainment",❌ NICK JR
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/15780/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/HARRY POTTER.png" group-title="English",❌ HARRY POTTER
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/32460/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/unbeaten.png" group-title="Sports",❌ UNBEATEN
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/12084/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/AVENGERS Logo.png" group-title="English",❌ AVENGERS
-https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/56865/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/TSN 4 HD Logo.png" group-title="Sports",❌ TSN 4 HD
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/14982/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Asiannet Movies.png" group-title="Kolkata",❌ ASIANNET MOVIES
-https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/29676/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/NATIONAL GEOGRAPHIC HD Logo.png" group-title="Hindi Entertainment",❌ NATIONAL GEOGRAPHIC HD
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/15756/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Bbay Bus.png" group-title="Kids",❌ BABY-BUS
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/31296/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/color.png" group-title="Hindi Entertainment",❌ COLORS-CINEPLEX
-https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/10/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/NDTV.png" group-title="Bangladeshi",❌ NDTV
-https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/52095/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ndtv247.png" group-title="Hindi Entertainment",❌ NDTV 24X7
-https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/10230/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Fox Sports.png" group-title="Sports",❌ FOX-SPORTS
-https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/74481/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Mr Beab Logo.png" group-title="Kids",❌ MR BEAN
-https://cdn-cloudone.tvstream.top/cloud1tv/media.m3u8?id=21615
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sky sports 1 live.png" group-title="Sports",❌ SKY-SPORTS-1
-https://cdn-cloudone.tvstream.top/cloud1tv/media.m3u8?id=5770
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/animalplanet.png" group-title="English",❌ ANIMAL PLANET HD
+https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/26/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony.png" group-title="Hindi Entertainment",❌ SONY SAB
 https://cdn-cloudone.tvstream.top/cloud1tv/media.m3u8?id=114
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/PREMIER SPORTS 2 Logo.png" group-title="Sports",❌ PREMIER SPORTS 2
-https://cdn-cloudone.tvstream.top/cloud1tv/media.m3u8?id=445
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BEN 10.png" group-title="Kids",❌ BEN 10
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/41726/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/AVENGERS Logo.png" group-title="English",❌ AVENGERS
+https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/56865/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/color.png" group-title="Hindi Entertainment",❌ COLORS-CINEPLEX
+https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/10/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Asiannet Movies.png" group-title="Kolkata",❌ ASIANNET MOVIES
+https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/29676/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Mr Beab Logo.png" group-title="Kids",❌ MR BEAN
+https://cdn-cloudone.tvstream.top/cloud1tv/media.m3u8?id=21615
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ndtv247.png" group-title="Hindi Entertainment",❌ NDTV 24X7
+https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/10230/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/NDTV.png" group-title="Bangladeshi",❌ NDTV
+https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/52095/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Fox Sports.png" group-title="Sports",❌ FOX-SPORTS
+https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/74481/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ASportsLogo.png" group-title="Sports",❌ A SPORTS HD
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/12084/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/unbeaten.png" group-title="Sports",❌ UNBEATEN
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/12084/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/nick.png" group-title="Kids",❌ NICK BANGLA
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/78507/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/discoveryscience.png" group-title="English",❌ DISCOVERY SCIENCE
 https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/248/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/logo TNT.png" group-title="Sports",❌ TNT SPORTS
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/13842/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/CARTOON NETWORK.png" group-title="English",❌ CARTOON NETWORK
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/14958/index.m3u8
