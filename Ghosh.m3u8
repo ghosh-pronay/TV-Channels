@@ -1,27 +1,23 @@
-#EXTM3U <!-- Updated: 2026-07-19 22:27:13 -->
+#EXTM3U <!-- Updated: 2026-07-20 00:59:18 -->
 
 # ═══ Bangladeshi ═══
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="Bangladeshi",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/gtv.png" group-title="Bangladeshi",GAZI TV
-https://fcdn.cloudone.fiber.cloudiverse.fun/rehub/nstrm/11169/index.m3u8
 
 # ═══ Kolkata ═══
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/zeebanglahd.png" group-title="Kolkata",ZEE BANGLA HD
 http://103.159.180.34:5001/live/625.m3u8
 
 # ═══ Sports ═══
-#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/42a84507a18441fc7f07a2d7bc330effd293596e6a4cee03e942b.png" group-title="Sports",FIFA 100
-http://172.31.22.20:8080/LIVE-EVENT-2/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/4eb3d1400fb0b9a7499020b99ec0a365410c4fd86a4cee09aff63.png" group-title="Sports",FIFA 4
-http://172.31.21.25:8080/LIVE-EVENT-3/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/860ac1a366b66420a58f73e6a5847e01f35607736a4cf2e3effac.png" group-title="Sports",FIFA 1
-http://165.99.39.250:8080/memfs/e238e05b-bb37-40c2-9724-160be3f32f50.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/38d474bd0ee468d048f2e6c304006a2425bdc55c6a4cf2c5acd1f.png" group-title="Sports",FOX43
 http://172.31.3.100:8080/FOX-43/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/4eb3d1400fb0b9a7499020b99ec0a365410c4fd86a4cee09aff63.png" group-title="Sports",FIFA 4
+http://172.31.21.25:8080/LIVE-EVENT-3/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/42a84507a18441fc7f07a2d7bc330effd293596e6a4cee03e942b.png" group-title="Sports",FIFA 100
+http://172.31.22.20:8080/LIVE-EVENT-2/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/static_channels/860ac1a366b66420a58f73e6a5847e01f35607736a4cf2e3effac.png" group-title="Sports",FIFA 1
+http://165.99.39.250:8080/memfs/e238e05b-bb37-40c2-9724-160be3f32f50.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/26.png" group-title="Sports",FIFA
 http://192.168.1.168/0.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/FOX43.png" group-title="Sports",FOX 43
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports3.png" group-title="Sports",STAR SPORTS 3
-https://fcdn.cloudone.fiber.cloudiverse.fun/rehub/nstrm/12155/index.m3u8
