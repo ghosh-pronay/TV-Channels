@@ -1,32 +1,32 @@
-#EXTM3U <!-- Updated: 2026-09-17 03:58:36 -->
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channel24.png" group-title="Bangladeshi",✅ CHANNEL 24 HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/18817.m3u8
+#EXTM3U <!-- Updated: 2026-09-25 10:26:32 -->
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/nagoriktv.png" group-title="Bangladeshi",✅ NAGARIK TV
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/955.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jamunatv-logo.png" group-title="Bangladeshi",✅ JAMUNA TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/69473.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/somoytv.png" group-title="Bangladeshi",✅ SOMOY TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/365.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ekattortv.png" group-title="Bangladeshi",✅ EKATTOR TV HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/364.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channel24.png" group-title="Bangladeshi",✅ CHANNEL 24 HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/18817.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ekhontv.png" group-title="Bangladeshi",✅ EKHON TV HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/386.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="Bangladeshi",✅ INDEPENDENT TV
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/105506.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/dbcnews.png" group-title="Bangladeshi",✅ DBC NEWS HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/16883.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/gtv.png" group-title="Bangladeshi",✅ GAZI TV
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/374.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ekattortv.png" group-title="Bangladeshi",✅ EKATTOR TV HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/364.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/nagoriktv.png" group-title="Bangladeshi",✅ NAGARIK TV
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/955.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BTV Lolo.png" group-title="Bangladeshi",✅ BTV
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/358.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channeli.png" group-title="Bangladeshi",✅ CHANNEL I HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/363.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/maasranga.png" group-title="Bangladeshi",✅ MAASRANGA TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/376.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BTV Lolo.png" group-title="Bangladeshi",✅ BTV
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/358.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/news24.png" group-title="Bangladeshi",✅ NEWS 24 HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/16884.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/satv.png" group-title="Bangladeshi",✅ SA TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/375.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ekhontv.png" group-title="Bangladeshi",✅ EKHON TV HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/386.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/deeptotv.png" group-title="Bangladeshi",✅ DEEPTO TV
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/372.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/atnnews.png" group-title="Bangladeshi",✅ ATN NEWS
@@ -42,17 +42,17 @@ http://dvltv.cc:80/Cloud-Onw/Digital-46556/368.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/rtv.png" group-title="Bangladeshi",✅ RTV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/370.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/zeebanglahd.png" group-title="Kolkata",✅ ZEE BANGLA HD
-https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8?e=1784102633&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&t
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/colorsbanglahd.png" group-title="Kolkata",✅ COLORS BANGLA HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/142319.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sonyaath.png" group-title="Kolkata",✅ SONY AATH
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/161685.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jalshamovies.png" group-title="Kolkata",✅ JALSHA MOVIES HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/3058.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/zeebanglacinema.png" group-title="Kolkata",✅ ZEE BANGLA CINEMA
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/18982.m3u8
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/451.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starjalshahd.png" group-title="Kolkata",✅ STAR JALSHA HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/449.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jalshamovies.png" group-title="Kolkata",✅ JALSHA MOVIES HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/3058.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sonyaath.png" group-title="Kolkata",✅ SONY AATH
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/161685.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/zeebanglacinema.png" group-title="Kolkata",✅ ZEE BANGLA CINEMA
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/18982.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/colorsbanglahd.png" group-title="Kolkata",✅ COLORS BANGLA HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/142319.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Colors HD.png" group-title="Hindi Entertainment",✅ COLORS HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/41284.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/M  TV logo.png" group-title="Hindi Entertainment",✅ MTV
@@ -69,6 +69,8 @@ http://dvltv.cc:80/Cloud-Onw/Digital-46556/569.m3u8
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/141830.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Gemini_Generated_Image_y8np4gy8np4gy8np.jpeg" group-title="Hindi Entertainment",✅ SONY ENTERTAINMENT TV
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/141784.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ARY DIGITAL.png" group-title="Hindi Entertainment",✅ ARY DIGITAL
+http://stream-7b694ce7e.nmbs.top/m3u/Pakistan/91c5a880fa.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/HISTORY HD Logo.png" group-title="Hindi Entertainment",✅ HISTORY HD
 http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sonymaxhd.png" group-title="Hindi Movies",✅ SONY MAX HD
@@ -85,46 +87,56 @@ http://dvltv.cc:80/Cloud-Onw/Digital-46556/495.m3u8
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/145383.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BBC NEWS Logo.png" group-title="English",✅ BBC NEWS
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/3517.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/CARTOON NETWORK.png" group-title="English",✅ CARTOON NETWORK
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/681.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Earth.png" group-title="English",✅ BBC EARTH
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/2300.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/animalplanet.png" group-title="English",✅ ANIMAL PLANET HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/161686.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/History TV HD.png" group-title="English",✅ HISTORY TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/179129.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Earth.png" group-title="English",✅ BBC EARTH
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/2300.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/CARTOON NETWORK.png" group-title="English",✅ CARTOON NETWORK
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/681.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/animalplanet.png" group-title="English",✅ ANIMAL PLANET HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/161686.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Al Jazeera HD.png" group-title="English",✅ AL JAZEERA HD
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/T-SPORTS-HD.png" group-title="Sports",✅ T SPORTS HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports1hd.png" group-title="Sports",✅ STAR SPORTS 1 HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/398.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-1.png" group-title="Sports",✅ SONY SPORTS 1
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/404.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-2.png" group-title="Sports",✅ SONY SPORTS 2
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/405.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Ptv Sports.png" group-title="Sports",✅ PTV SPORTS
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/419.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/T-SPORTS-HD.png" group-title="Sports",✅ T SPORTS HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/408.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-5.png" group-title="Sports",✅ SONY SPORTS 5
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/407.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-3.png" group-title="Sports",✅ SONY SPORTS 3
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/406.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports1hd.png" group-title="Sports",✅ STAR SPORTS 1 HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/398.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsportsselect1hd.png" group-title="Sports",✅ STAR SPORTS SELECT 1 HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/403.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/tensports.png" group-title="Sports",✅ TEN SPORTS HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/1473.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports3.png" group-title="Sports",✅ STAR SPORTS 3
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/400.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsportsselect1hd.png" group-title="Sports",✅ STAR SPORTS SELECT 1 HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/403.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsportsselect2hd.png" group-title="Sports",✅ STAR SPORTS SELECT 2 HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/402.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports2hd.png" group-title="Sports",✅ STAR SPORTS 2 HD
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ASportsLogo.png" group-title="Sports",✅ A SPORTS HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/945.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsportsselect2hd.png" group-title="Sports",✅ STAR SPORTS SELECT 2 HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/402.m3u8
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/beinsportsusa2.png" group-title="Sports",✅ BEIN SPORTS USA
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/142649.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Telemundo Boston 2.png" group-title="Sports",✅ TELEMUNDO BOSTON
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/FOX43.png" group-title="Sports",✅ FOX 43
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Telemundo Boston 2.png" group-title="Sports",✅ TELEMUNDO BOSTON
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px).png" group-title="Sports",✅ BEIN SPORTS XTRA-2
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px) (3).png" group-title="Sports",✅ NBC SPORTS
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px) (4).png" group-title="Sports",✅ BAHRAIN SPORTS 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px) (5).png" group-title="Sports",✅ TRACE SPORT
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/nick.png" group-title="Kids",✅ NICK BANGLA
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/179128.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Disnep channel.png" group-title="Kids",✅ DISNEY-HINDI
@@ -137,26 +149,24 @@ http://dvltv.cc:80/Cloud-Onw/Digital-46556/681.m3u8
 https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/18396/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ntv.png" group-title="Bangladeshi",❌ NTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Bbay Bus.png" group-title="Kids",❌ BABY-BUS
-https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/31296/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/NATGEO WILD Logo.png" group-title="Hindi Entertainment",❌ NATGEO WILD
-https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/TSN 4 HD Logo.png" group-title="Sports",❌ TSN 4 HD
 https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/14982/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/NATGEO WILD Logo.png" group-title="Hindi Entertainment",❌ NATGEO WILD
+https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/NATIONAL GEOGRAPHIC HD Logo.png" group-title="Hindi Entertainment",❌ NATIONAL GEOGRAPHIC HD
 https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/15756/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/unbeaten.png" group-title="Sports",❌ UNBEATEN
 https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/12084/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Bbay Bus.png" group-title="Kids",❌ BABY-BUS
+https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/31296/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BEN 10.png" group-title="Kids",❌ BEN 10
 https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/41726/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/DD bangla.png" group-title="Kolkata",❌ DD BANGLA
 https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/5996/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/boishakhitv.png" group-title="Bangladeshi",❌ BOISHAKHI TV HD
-https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/6053/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sangeetbangla.png" group-title="Kolkata",❌ SANGEET BANGLA
 https://fcdn.cloudone.fiber.cloudiverse.fun/codnet/nstrm/120/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/atnbangla.png" group-title="Bangladeshi",❌ ATN BANGLA
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyf
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/boishakhitv.png" group-title="Bangladeshi",❌ BOISHAKHI TV HD
+https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/6053/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/AVENGERS Logo.png" group-title="English",❌ AVENGERS
 https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/56865/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/PREMIER SPORTS 2 Logo.png" group-title="Sports",❌ PREMIER SPORTS 2
@@ -165,24 +175,24 @@ https://cdn-cloudone.tvstream.top/cloud1tv/media.m3u8?id=445
 https://fcdn.cloudone.fiber.cloudiverse.fun/ironit/nstrm/13842/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Asiannet Movies.png" group-title="Kolkata",❌ ASIANNET MOVIES
 https://cdn.cloudone.fiber.cloudiverse.fun/ionet/nstrm/29676/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/atnbangla.png" group-title="Bangladeshi",❌ ATN BANGLA
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyf
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/color.png" group-title="Hindi Entertainment",❌ COLORS-CINEPLEX
 https://cdn-cloudone-net.cloudplay.top/rn/nstrm/10/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/CNN Logo.png" group-title="English",❌ CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsun
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/mohonatv.png" group-title="Bangladeshi",❌ MOHONA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyf
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/mytv.png" group-title="Bangladeshi",❌ MY TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyf
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/CNN Logo.png" group-title="English",❌ CNN
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsun
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Mr Beab Logo.png" group-title="Kids",❌ MR BEAN
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrb
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Ptv Sports.png" group-title="Sports",❌ PTV SPORTS
-http://66.102.126.10:8000/play/a04w/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/rugbypass.png" group-title="Sports",❌ RUGBY PASS TV
 https://97bf7b92.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9SdWdieVBh
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ARY DIGITAL.png" group-title="Hindi Entertainment",❌ ARY DIGITAL
-http://stream-7b694ce7e.nmbs.top/m3u/Pakistan/91c5a880fa.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px) (2).png" group-title="Sports",❌ SPORTS FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a22
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/SPORTSNET 360 HD Logo.png" group-title="Sports",❌ SPORTSNET 360 HD
 http://192.168.1.168/0.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Mr Beab Logo.png" group-title="Kids",❌ MR BEAN
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrb
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Hum TV.png" group-title="Hindi Entertainment",❌ HUM-TV
 http://66.102.126.10:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Fox Sports.png" group-title="Sports",❌ FOX-SPORTS
