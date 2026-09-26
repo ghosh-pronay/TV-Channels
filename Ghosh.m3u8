@@ -1,24 +1,24 @@
-#EXTM3U <!-- Updated: 2026-09-25 10:26:29 -->
+#EXTM3U <!-- Updated: 2026-09-26 23:11:53 -->
 
 # ═══ Bangladeshi ═══
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/nagoriktv.png" group-title="Bangladeshi",NAGARIK TV
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/955.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jamunatv-logo.png" group-title="Bangladeshi",JAMUNA TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/69473.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/somoytv.png" group-title="Bangladeshi",SOMOY TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/365.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ekattortv.png" group-title="Bangladeshi",EKATTOR TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/364.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channel24.png" group-title="Bangladeshi",CHANNEL 24 HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/18817.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ekhontv.png" group-title="Bangladeshi",EKHON TV HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/386.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="Bangladeshi",INDEPENDENT TV
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/105506.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/nagoriktv.png" group-title="Bangladeshi",NAGARIK TV
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/955.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/dbcnews.png" group-title="Bangladeshi",DBC NEWS HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/16883.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channel24.png" group-title="Bangladeshi",CHANNEL 24 HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/18817.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/deeptotv.png" group-title="Bangladeshi",DEEPTO TV
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/372.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/gtv.png" group-title="Bangladeshi",GAZI TV
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/374.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="Bangladeshi",INDEPENDENT TV
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/105506.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BTV Lolo.png" group-title="Bangladeshi",BTV
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/358.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channeli.png" group-title="Bangladeshi",CHANNEL I HD
@@ -29,8 +29,8 @@ http://dvltv.cc:80/Cloud-Onw/Digital-46556/376.m3u8
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/16884.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/satv.png" group-title="Bangladeshi",SA TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/375.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/deeptotv.png" group-title="Bangladeshi",DEEPTO TV
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/372.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ekhontv.png" group-title="Bangladeshi",EKHON TV HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/386.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/atnnews.png" group-title="Bangladeshi",ATN NEWS
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/362.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channel9.png" group-title="Bangladeshi",CHANNEL 9
@@ -47,16 +47,16 @@ http://dvltv.cc:80/Cloud-Onw/Digital-46556/370.m3u8
 # ═══ Kolkata ═══
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/zeebanglahd.png" group-title="Kolkata",ZEE BANGLA HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/451.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starjalshahd.png" group-title="Kolkata",STAR JALSHA HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/449.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jalshamovies.png" group-title="Kolkata",JALSHA MOVIES HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/3058.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/sonyaath.png" group-title="Kolkata",SONY AATH
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/161685.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/zeebanglacinema.png" group-title="Kolkata",ZEE BANGLA CINEMA
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/18982.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jalshamovies.png" group-title="Kolkata",JALSHA MOVIES HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/3058.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/colorsbanglahd.png" group-title="Kolkata",COLORS BANGLA HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/142319.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starjalshahd.png" group-title="Kolkata",STAR JALSHA HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/449.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/zeebanglacinema.png" group-title="Kolkata",ZEE BANGLA CINEMA
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/18982.m3u8
 
 # ═══ Hindi Entertainment ═══
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Colors HD.png" group-title="Hindi Entertainment",COLORS HD
@@ -67,16 +67,14 @@ http://dvltv.cc:80/Cloud-Onw/Digital-46556/683.m3u8
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/525.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starplushd.png" group-title="Hindi Entertainment",STAR PLUS HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/143845.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/New Project (2).png" group-title="Hindi Entertainment",ZEE TV HINDI
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/161658.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Nick JR.png" group-title="Hindi Entertainment",NICK JR
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/569.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/New Project (2).png" group-title="Hindi Entertainment",ZEE TV HINDI
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/161658.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony.png" group-title="Hindi Entertainment",SONY SAB
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/141830.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Gemini_Generated_Image_y8np4gy8np4gy8np.jpeg" group-title="Hindi Entertainment",SONY ENTERTAINMENT TV
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/141784.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ARY DIGITAL.png" group-title="Hindi Entertainment",ARY DIGITAL
-http://stream-7b694ce7e.nmbs.top/m3u/Pakistan/91c5a880fa.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/HISTORY HD Logo.png" group-title="Hindi Entertainment",HISTORY HD
 http://151.80.18.177:86/Histoire/index.m3u8
 
@@ -95,10 +93,10 @@ http://dvltv.cc:80/Cloud-Onw/Digital-46556/541.m3u8
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/495.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/discovery.png" group-title="English",DISCOVERY HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/145383.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BBC NEWS Logo.png" group-title="English",BBC NEWS
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/3517.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/History TV HD.png" group-title="English",HISTORY TV HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/179129.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/BBC NEWS Logo.png" group-title="English",BBC NEWS
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/3517.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Earth.png" group-title="English",BBC EARTH
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/2300.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/CARTOON NETWORK.png" group-title="English",CARTOON NETWORK
@@ -109,46 +107,48 @@ http://dvltv.cc:80/Cloud-Onw/Digital-46556/161686.m3u8
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
 # ═══ Sports ═══
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports1hd.png" group-title="Sports",STAR SPORTS 1 HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/398.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-1.png" group-title="Sports",SONY SPORTS 1
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/404.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-2.png" group-title="Sports",SONY SPORTS 2
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/405.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/T-SPORTS-HD.png" group-title="Sports",T SPORTS HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Ptv Sports.png" group-title="Sports",PTV SPORTS
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/419.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/T-SPORTS-HD.png" group-title="Sports",T SPORTS HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/408.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports1hd.png" group-title="Sports",STAR SPORTS 1 HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/398.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-2.png" group-title="Sports",SONY SPORTS 2
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/405.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-1.png" group-title="Sports",SONY SPORTS 1
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/404.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-5.png" group-title="Sports",SONY SPORTS 5
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/407.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-3.png" group-title="Sports",SONY SPORTS 3
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/406.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsportsselect1hd.png" group-title="Sports",STAR SPORTS SELECT 1 HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/403.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/tensports.png" group-title="Sports",TEN SPORTS HD
-http://dvltv.cc:80/Cloud-Onw/Digital-46556/1473.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Sony-sports-Ten-3.png" group-title="Sports",SONY SPORTS 3
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/406.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports3.png" group-title="Sports",STAR SPORTS 3
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/400.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/tensports.png" group-title="Sports",TEN SPORTS HD
+http://dvltv.cc:80/Cloud-Onw/Digital-46556/1473.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsportsselect2hd.png" group-title="Sports",STAR SPORTS SELECT 2 HD
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/402.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/SPORTSNET 360 HD Logo.png" group-title="Sports",SPORTSNET 360 HD
+http://192.168.1.168/0.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/starsports2hd.png" group-title="Sports",STAR SPORTS 2 HD
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ASportsLogo.png" group-title="Sports",A SPORTS HD
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/beinsportsusa2.png" group-title="Sports",BEIN SPORTS USA
 http://dvltv.cc:80/Cloud-Onw/Digital-46556/142649.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/FOX43.png" group-title="Sports",FOX 43
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Telemundo Boston 2.png" group-title="Sports",TELEMUNDO BOSTON
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/FOX43.png" group-title="Sports",FOX 43
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ASportsLogo.png" group-title="Sports",A SPORTS HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px).png" group-title="Sports",BEIN SPORTS XTRA-2
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px) (5).png" group-title="Sports",TRACE SPORT
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px) (3).png" group-title="Sports",NBC SPORTS
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px) (4).png" group-title="Sports",BAHRAIN SPORTS 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/Untitled (400 x 226 px) (5).png" group-title="Sports",TRACE SPORT
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 # ═══ Kids ═══
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/nick.png" group-title="Kids",NICK BANGLA
